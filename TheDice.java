@@ -1,4 +1,3 @@
-
 public class TheDice {
 	
 	public void dice1( int systemDice){
@@ -14,3 +13,6 @@ public class TheDice {
 		systemDice = systemDice * 3;
 	}
 }
+
+
+// It works, but I neeed for you to apply the concepts of Inheritance, OverRidding (Base class and child class), and also OverLoading (Methods of same Name)
